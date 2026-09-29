@@ -1,0 +1,58 @@
+```json
+{
+  "version": "3.1",
+  "released": "2026-01-15",
+  "devices": [
+    {
+      "brand": "Samsung",
+      "model": "SM-A556E",
+      "codename": "a55x",
+      "chipset": "Exynos 1480",
+      "android_ver": "14",
+      "release_year": 2024,
+      "is_clone": 0,
+      "common_issues": ["Display", "Battery", "Camera"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 13 5G",
+      "codename": "gold",
+      "chipset": "Dimensity 6080",
+      "android_ver": "13",
+      "release_year": 2024,
+      "is_clone": 0,
+      "common_issues": ["Battery", "Display"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "codename": "d47ap",
+      "chipset": "A18",
+      "android_ver": "iOS 18",
+      "release_year": 2024,
+      "is_clone": 0,
+      "common_issues": ["Battery", "Display"]
+    },
+    {
+      "brand": "Vivo",
+      "model": "Y28",
+      "codename": "v2334",
+      "chipset": "Dimensity 6020",
+      "android_ver": "14",
+      "release_year": 2024,
+      "is_clone": 0,
+      "common_issues": ["Battery", "Display"]
+    },
+    {
+      "brand": "Oppo",
+      "model": "A60",
+      "codename": "cph2633",
+      "chipset": "Snapdragon 680",
+      "android_ver": "13",
+      "release_year": 2023,
+      "is_clone": 0,
+      "common_issues": ["Display", "Battery"]
+    }
+  ]
+}
+``` 
